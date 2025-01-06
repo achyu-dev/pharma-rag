@@ -1,0 +1,14 @@
+flask 
+gunicorn 
+loguru 
+requests 
+aiohttp 
+aiosqlite 
+beautifulsoup4 
+openai 
+langchain 
+chromadb 
+tiktoken 
+python-dotenv 
+PyJWT 
+werkzeug
