@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 3. Start the application
 ```bash
-streamlit run app.py
+streamlit run streamlit.py
 ```
 Interact with the chatbot via the web-based GUI
 
